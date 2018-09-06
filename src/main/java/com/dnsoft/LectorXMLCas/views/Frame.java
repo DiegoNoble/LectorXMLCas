@@ -298,7 +298,7 @@ public class Frame extends java.awt.Frame {
 
         jComboBox1.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
         jComboBox1.setForeground(new java.awt.Color(204, 0, 0));
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Casino Rivera", "Sarandi Slots", "Casino Salto" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "7 Saltos", "Casino Rivera", "Sarandi Slots", "Casino Salto", " " }));
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 1;
         gridBagConstraints.gridy = 0;
