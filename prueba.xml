@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Root>
+  <Table>
+    <com.dnsoft.beans.Table>
+      <fecha>2017-01-27</fecha>
+      <centro__coste>1</centro__coste>
+      <numero__maquina>1</numero__maquina>
+      <ubicacion>1</ubicacion>
+      <tipo__sala>1</tipo__sala>
+      <tipo__juego></tipo__juego>
+      <tipo__moneda></tipo__moneda>
+      <importe__win>1.0</importe__win>
+      <cantidad__maquinas>1</cantidad__maquinas>
+      <time__teorico></time__teorico>
+      <time__total></time__total>
+      <monedas__partida>1</monedas__partida>
+      <numero__transacciones>1</numero__transacciones>
+      <handle__maq__hora>1</handle__maq__hora>
+      <win__maq__hora>1</win__maq__hora>
+      <importe__partida>2</importe__partida>
+    </com.dnsoft.beans.Table>
+  </Table>
+</Root>
